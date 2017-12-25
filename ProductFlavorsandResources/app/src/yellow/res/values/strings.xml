@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gradle Product Flavors - Yellow</string>
+    <string name="product_flavor_text">This is the yellow product flavor</string>
+
+</resources>
